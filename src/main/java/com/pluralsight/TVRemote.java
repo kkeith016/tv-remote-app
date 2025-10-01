@@ -2,7 +2,7 @@ package com.pluralsight;
 
 public class TVRemote {
 
-    // remote vars
+    // remote
     private String manufacturer;
     private int currentChannel;
     private int currentVolume;
